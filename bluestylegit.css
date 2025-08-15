@@ -1,0 +1,21 @@
+/* Styling for the header ID */
+#header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling for elements with the content box class */
+.content-box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 20px;
+    background-color: #fff;
+}
+
+/* Styling for elements with the highlight class */
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
